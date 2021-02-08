@@ -5,7 +5,11 @@
   "time": "15",
   "details": {
     "steps": [
-     ],
+      {
+        "title": "Inizia",
+        "text": "step1.md"
+      }
+    ],
     "intro": {
       "text": "intro.md"
     },
