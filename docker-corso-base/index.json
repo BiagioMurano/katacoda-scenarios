@@ -2,8 +2,9 @@
   "title": "docker-corso",
   "description": "quiz-docker",
   "difficulty": "Beginner",
-  "time": "10",
+  "time": "15",
   "details": {
+    "steps": [],
     "intro": {
       "text": "intro.md"
     },
