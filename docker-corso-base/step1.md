@@ -1,1 +1,24 @@
-Utilizza il pulsante Dashboard per accedere al quiz
+Utilizza il pulsante Dashboard di fianco al terminale per accedere al quiz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
