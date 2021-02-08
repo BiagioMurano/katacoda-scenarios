@@ -1,16 +1,16 @@
 {
-  "title": "Doceker",
+  "title": "docker-corso",
   "description": "quiz-docker",
   "difficulty": "Beginner",
   "time": "15",
   "details": {
     "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }],
+     ],
     "intro": {
       "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
     }
   },
   "environment": {
